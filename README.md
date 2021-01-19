@@ -22,7 +22,6 @@ Languages / Frameworks:
 [Website]: https://francoisguenot.com/
 [Twitter]: https://twitter.com/h3webdeveloper
 [Instagram]: https://www.instagram.com/francois__guenot
-/
 [Linkedin]: https://www.linkedin.com/in/françois-guénot-336807167/
 
 
